@@ -1,4 +1,5 @@
-# Declarative, composable document updates (views)
+# Declarative partial updates
+
 HTML primitives for updating parts of a document without a full page refresh
 See https://github.com/whatwg/html/issues/2142 and https://github.com/whatwg/html/issues/2791 for very long context.
 
